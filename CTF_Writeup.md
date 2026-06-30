@@ -92,8 +92,7 @@ by combining these pieces.\
 > \
 > **
 >
-> **Problem 2: Kitty Ftw!!\
-> **
+> **Problem 2: Kitty Ftw!!**
 >
 > **Description**: A colleague downloaded this image from a suspicious
 > server. Something about it seems off. Seems like a cute kitty,
